@@ -8,5 +8,5 @@
 - 📫 How to reach me:i.zagaouch@gmail.com
 - ⚡ Fun fact: i can draw 😄
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![ilyas zagaouch's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagaouch)](https://github.com/zagaouch/github-readme-stats)
 
