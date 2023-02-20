@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-
-**zagaouch/zagaouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ passionate software engineer, always I try to expand my skill set and stay ahead of the latest industry trends. With a strong focus on delivering high-quality and reliable solutions, I bring creativity and attention to detail to every project I work on. Whether collaborating with a team or taking the lead on independent projects, I consistently strive to exceed expectations and make a meaningful impact.
 
 - 🔭 I'm currently working on blog with laravel
 - 🌱 I’m currently learning Laravel
@@ -11,4 +7,6 @@ Here are some ideas to get you started:
 - 🎓  I'm currently an ALX Student
 - 📫 How to reach me:i.zagaouch@gmail.com
 - ⚡ Fun fact: i can draw 😄
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
