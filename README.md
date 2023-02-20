@@ -10,7 +10,8 @@
 - 🎓  I'm currently an ALX Student
 - 📫 How to reach me:i.zagaouch@gmail.com
 - ⚡ Fun fact: i can draw 😄
-
+<hr>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -18,6 +19,7 @@
 <a href="https://www.instagram.com/zagaouch.ilyas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://t.me/zagaouch" target="_blank" rel="noreferrer noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
 </p>
-
+<hr>
+<hr>
 ![ilyas zagaouch's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagaouch&show_icons=true&theme=radical)
 
