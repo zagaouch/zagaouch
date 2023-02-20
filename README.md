@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/10424691/219994936-e76881eb-b3da-44fe-bd82-8f713fb81154.png)
+
 ### Hi there 👋
  passionate software engineer, always I try to expand my skill set and stay ahead of the latest industry trends. With a strong focus on delivering high-quality and reliable solutions, I bring creativity and attention to detail to every project I work on. Whether collaborating with a team or taking the lead on independent projects, I consistently strive to exceed expectations and make a meaningful impact.
 
