@@ -9,4 +9,5 @@
 - ⚡ Fun fact: i can draw 😄
 
 [![ilyas zagaouch's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagaouch)](https://github.com/zagaouch/github-readme-stats)
+![zagaouch's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagaouch&show_icons=true)
 
