@@ -3,13 +3,13 @@
 ### Hi there 👋
  passionate software engineer, always I try to expand my skill set and stay ahead of the latest industry trends. With a strong focus on delivering high-quality and reliable solutions, I bring creativity and attention to detail to every project I work on. Whether collaborating with a team or taking the lead on independent projects, I consistently strive to exceed expectations and make a meaningful impact.
 <hr>
-<hr>
-- 🔭 I'm currently working on blog with laravel
-- 🌱 I’m currently learning Laravel
-- 👯 I’m looking to collaborate on Open-source software development, Web application development, DevOps and automation, Security and network engineering, UX/UI design and implementation, Technical writing and documentation, Mentorship and technical training.
-- 🎓  I'm currently an ALX Student
-- 📫 How to reach me:i.zagaouch@gmail.com
-- ⚡ Fun fact: i can draw 😄
+<hr><br>
+- 🔭 I'm currently working on blog with laravel<br>
+- 🌱 I’m currently learning Laravel<br>
+- 👯 I’m looking to collaborate on Open-source software development, Web application development, DevOps and automation, Security and network engineering, UX/UI design and implementation, Technical writing and documentation, Mentorship and technical training.<br>
+- 🎓  I'm currently an ALX Student<br>
+- 📫 How to reach me:i.zagaouch@gmail.com<br>
+- ⚡ Fun fact: i can draw 😄<br>
 <hr>
 <hr>
 <h3 align="left">Connect with me:</h3>
