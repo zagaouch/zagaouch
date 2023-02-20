@@ -12,6 +12,7 @@
 - ⚡ Fun fact: i can draw 😄<br>
 <hr>
 <hr>
+[![My Skills](https://skillicons.dev/icons?i=java,laravel,php,linux,c,css,html,git,js,mysql,arduino&theme=light)](https://skillicons.dev)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
