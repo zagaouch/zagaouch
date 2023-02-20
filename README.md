@@ -9,7 +9,14 @@
 - 🎓  I'm currently an ALX Student
 - 📫 How to reach me:i.zagaouch@gmail.com
 - ⚡ Fun fact: i can draw 😄
+- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
+<a href="[your link](https://www.linkedin.com/in/zagaouch-ilyas-b39241113/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagaouch&layout=compact)](https://github.com/zagaouch/github-readme-stats)
 ![ilyas zagaouch's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagaouch&show_icons=true&theme=radical)
