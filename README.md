@@ -9,7 +9,8 @@
 - 🎓  I'm currently an ALX Student<br>
 - 📫 How to reach me:i.zagaouch@gmail.com<br>
 - ⚡ Fun fact: i can draw 😄<br>
-<h3 align="left">My Skills:</h3>
+### My Skills: 
+
 [![My Skills](https://skillicons.dev/icons?i=java,laravel,php,linux,c,css,html,git,js,mysql,arduino,bash&theme=light)](https://skillicons.dev)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
