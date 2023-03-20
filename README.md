@@ -22,7 +22,7 @@
 </p>
 
 ![ilyas zagaouch's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagaouch&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagaouch)](https://github.com/zagaouch/github-readme-stats)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/75eaed25-8b50-4ef7-9732-644f5491c6ed/deploy-status)](https://app.netlify.com/sites/lighthearted-sunflower-1354a0/deploys)
 
