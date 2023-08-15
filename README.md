@@ -11,7 +11,7 @@
 - ⚡ Fun fact: i can draw 😄<br>
 ### My Skills: 
 
-![My Skills](https://skillicons.dev/icons?i=java,laravel,php,linux,c,css,html,git,js,mysql,arduino,bash&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,python,php,linux,c,css,html,git,js,mysql,arduino,bash&theme=light)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
